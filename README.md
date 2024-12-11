@@ -1,4 +1,6 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),  I'm Utpal Kant</h1>
+<h1 align="center">
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave emoji" width="40" height="40">, I'm Utpal Kant
+
 <h3 align="center">MERN Stack Sorcerer: Building Dynamic Web Solutions</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=utpal33&label=Profile%20views&color=0e75b6&style=flat" alt="utpal33" /> </p> 
