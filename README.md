@@ -15,7 +15,7 @@
  
 - 💬 Ask me about **React,Redux,Express,Node,Auth**
 
-- 📫 How to reach me **utsavmaithili@gmail.com**
+- 📫 How to reach me **utpalkant33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
