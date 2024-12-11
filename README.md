@@ -17,10 +17,7 @@
 
 - 📫 How to reach me **utpalkant33@gmail.com**
 
-<a href="https://www.github.com/Vinay980" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Vinay980?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a><a href="https://www.x.com/Vinaypa41960874" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Vinaypa41960874?logo=twitter&style=for-the-badge&color=ffffff&labelColor=171717"
-/></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
