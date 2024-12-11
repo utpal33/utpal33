@@ -17,12 +17,10 @@
 
 - 📫 How to reach me **utpalkant33@gmail.com**
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/utsavmaithili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/utsavmaithili" height="30" width="40" /></a>
-</p>
--->
+<a href="https://www.github.com/Vinay980" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Vinay980?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a><a href="https://www.x.com/Vinaypa41960874" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Vinaypa41960874?logo=twitter&style=for-the-badge&color=ffffff&labelColor=171717"
+/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
