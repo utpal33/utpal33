@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utsav Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Utpal Kant</h1>
 <h3 align="center">MERN Stack Sorcerer: Building Dynamic Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jspmern&label=Profile%20views&color=0e75b6&style=flat" alt="jspmern" /> </p>
