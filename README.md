@@ -20,8 +20,7 @@
  
 - 💬 Ask me about **React,Redux,Express,Node,Auth**
 
-/
-/*- 📫 How to reach me **utpalkant33@gmail.com**   */
+<!-- - 📫 How to reach me **utpalkant33@gmail.com** -->
 
 
 
